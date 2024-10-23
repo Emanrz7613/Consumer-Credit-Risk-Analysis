@@ -5,6 +5,8 @@ This project aims to predict whether a borrower will repay a loan using deep lea
 ## Motivation
 In the finance industry, it is critical to assess the credit risk of individuals before issuing loans. This project leverages deep learning techniques to predict the likelihood of loan repayment or default using various consumer features. By building robust machine learning models, we can provide insights into how different factors affect the probability of loan default.
 ## Dataset
+You can download the dataset from [this link](https://drive.google.com/file/d/1zra3u2OqUwsENAdeQqp7G3DQGfD9EF1d/view?usp=sharing)
+
 The dataset used for this project contains **395,932 loan records** with **31 features**, collected between 2007 and 2014. Some of the important features include:
 - **Loan amount**
 - **Annual income**

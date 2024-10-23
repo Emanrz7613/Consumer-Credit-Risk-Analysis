@@ -76,7 +76,7 @@ For each model, we evaluated the following metrics:
 To replicate the project, follow these steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/consumer-credit-risk.git
+    git clone https://github.com/emanrz7613/consumer-credit-risk-analysis.git
     cd consumer-credit-risk
     ```
 2. **Install dependencies**:

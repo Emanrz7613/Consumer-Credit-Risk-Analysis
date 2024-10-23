@@ -77,7 +77,7 @@ To replicate the project, follow these steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/emanrz7613/consumer-credit-risk-analysis.git
-    cd consumer-credit-risk
+    cd consumer-credit-risk-analysis
     ```
 2. **Install dependencies**:
     ```bash

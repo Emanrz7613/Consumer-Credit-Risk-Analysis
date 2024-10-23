@@ -79,27 +79,7 @@ For each model, we evaluated the following metrics:
 - All models performed well, but the high number of **false positives** indicated a challenge in predicting loan defaults accurately.
 - **DNN** and **Wide & Deep** models also provided strong results, especially in terms of recall, but MLP was the best overall.
 
-## How to Run
-To replicate the project, follow these steps:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/username/consumer-credit-risk.git
-    cd consumer-credit-risk
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the notebooks**:
-    - Open Jupyter Notebook and run the following:
-      - `MLP.ipynb`
-      - `Deep_and_Wide_Model.ipynb`
-      - `Group_4_DNN.ipynb`
-
-4. **Explore the models**: Follow the instructions in each notebook to load the data, train models, and evaluate results.
 
 ## Future Work
 - Incorporate more advanced deep learning techniques such as **LSTM** for time-series loan data.
